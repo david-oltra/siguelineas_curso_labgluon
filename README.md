@@ -1,13 +1,11 @@
 SIGUELINEAS PARA EL CURSO DEL SIGUELINEAS DE LABORATORIO GLUON
-
-
+--------------------------------------------------------------
 
 BOM
 
 
 ESP32-DevKitC-32 (ESP-32-CP2102) <br>
 https://es.aliexpress.com/item/1005005396344075.html
-
 
 TB6612 -> CONTROLADOR MOTORES <br>
 https://es.aliexpress.com/item/1005004596331282.html
