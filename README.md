@@ -5,16 +5,16 @@ BOM
 
 
 ESP32-DevKitC-32 (ESP-32-CP2102) <br>
-https://es.aliexpress.com/item/1005005396344075.html
+https://es.aliexpress.com/item/1005005970816555.html
 
 TB6612 -> CONTROLADOR MOTORES <br>
-https://es.aliexpress.com/item/1005004596331282.html
+https://es.aliexpress.com/item/1005005839383613.html
 
 CD74HC4067 -> MULTIPLEXOR <br>
-https://es.aliexpress.com/item/1005002710691057.html
+https://es.aliexpress.com/item/1005005199818750.html
 
 QRE1113 -> ARRAY SENSORES <br>
-https://es.aliexpress.com/item/1005001650888947.html
+https://es.aliexpress.com/item/1005006408285450.html
 
 SWITCH (6x6x5mm) <br>
 https://es.aliexpress.com/item/32912263133.html
